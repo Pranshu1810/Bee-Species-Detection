@@ -1,8 +1,6 @@
 # Bee Species Identification
 To predict the species of a bee, given its description in text format, using Information Retrieval, Natural Language Processing and Machine Learning.
 
-Deployed app: [bees-identifier.herokuapp.com](https://bees-identifier.herokuapp.com/)
-
 ### Local Deployment
 1. Clone the git repository.
 2. Change directory to `Code` and create a virtual environment.
